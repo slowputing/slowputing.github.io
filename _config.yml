@@ -1,2 +1,3 @@
 title: Slowputing.com
 theme: minima
+plugins: jekyll-feed
