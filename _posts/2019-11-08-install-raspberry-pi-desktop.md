@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Install Raspberry Pi Desktop"
+title: "Install Raspberry Pi Desktop on your PC or Mac"
 date: 2019-12-08 17:00:00 +01:00
 ---
 
