@@ -6,4 +6,4 @@ date: 2019-12-19 15:00:00 +01:00
 
 ![Devuan logo]({{ site.url }}/assets/2019-11-19-debian-minus-systemd.jpeg)
 
-[Devuan](https://devuan.org)'s been slowing up Debian since 2014. We're thankful.
+Slowing up Debian since 2014. Thank you [Devuan](https://devuan.org)!
