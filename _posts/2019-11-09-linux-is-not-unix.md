@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Linux is not Unix"
+title: "Linux is not UNIX"
 date: 2019-12-09 20:00:00 +01:00
 ---
 
