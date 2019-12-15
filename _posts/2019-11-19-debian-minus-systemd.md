@@ -6,4 +6,4 @@ date: 2019-12-19 15:00:00 +01:00
 
 ![Devuan logo]({{ site.url }}/assets/2019-11-19-debian-minus-systemd.png)
 
-Slowing up Debian since 2014. Thank you [Devuan](https://devuan.org)!
+Slowing up Debian since 2014. [Devuan](https://devuan.org) is the home of the [init freedom](https://devuan.org/os/init-freedom/) campain.
