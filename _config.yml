@@ -1,4 +1,5 @@
 title: "Slowputing"
+description: "Slow computing in short"
 theme: minima
 plugins:
   - jekyll-feed
