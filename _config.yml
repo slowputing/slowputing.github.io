@@ -1,5 +1,4 @@
-title: "Slow[com]puting"
-description: "Home of all things slow in the world of computing."
+title: "Slowputing"
 theme: minima
 plugins:
   - jekyll-feed
