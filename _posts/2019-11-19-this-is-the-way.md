@@ -6,5 +6,5 @@ date: 2019-12-19 16:00:00 +01:00
 
 ![It's FOSS logo]({{ site.url }}/assets/2019-11-19-this-is-the-way.png)
 
-Can't really go wrong: if [It's FOSS](https://itsfoss.com/) then it's slow. 
+If [It's FOSS](https://itsfoss.com/) and it's not systemd then it's probably slow.
 
