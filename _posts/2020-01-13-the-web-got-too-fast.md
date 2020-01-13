@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Web got too fast"
+title: "The Web Got Too Fast"
 date: 2020-01-13 21:00:00 +01:00
 ---
 
